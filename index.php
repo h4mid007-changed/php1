@@ -1,3 +1,2 @@
 <?php
-exit('Nothing Here!');
-?>
+echo "Hello world!";
